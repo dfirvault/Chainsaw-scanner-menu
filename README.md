@@ -28,7 +28,7 @@
 
 - Windows 10 or newer.
 - Python 3.9+.
-- [Chainsaw](https://github.com/your-chainsaw-link) executable.
+- [Chainsaw](https://github.com/dfirvault/Chainsaw-scanner-menu/releases) executable.
 - Sigma rules and mappings (`rules/` folder and `mappings/sigma-event-logs-all.yml`) in the same directory as the Chainsaw executable.
 - Python modules:
   ```bash
