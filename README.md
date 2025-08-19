@@ -16,6 +16,14 @@
 
 ---
 
+<img width="976" height="506" alt="image" src="https://github.com/user-attachments/assets/f04d3310-c9ac-48c7-8eb1-a996b80ee4c3" />
+
+<img width="661" height="321" alt="image" src="https://github.com/user-attachments/assets/81b5fc54-e76e-43b4-99c8-415cfea71f2b" />
+
+![WindowsSandboxRemoteSession_vUcWzg5oBr](https://github.com/user-attachments/assets/8ada47fa-c5b0-4e16-b077-6293d3f1a0a6)
+
+
+---
 ## Requirements
 
 - Windows 10 or newer.
@@ -33,7 +41,7 @@
 
 1. Clone or download this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/dfirvault/Chainsaw-scanner-menu.git
     cd your-repo
     ```
 
@@ -63,16 +71,6 @@ python chainsaw-scanner-menu.py
 - The tool will automatically create a `chainsaw-config.txt` file storing the path to your Chainsaw executable for future runs.
 - Ensure the Sigma `rules/` folder and `mappings/sigma-event-logs-all.yml` are in the same directory as the Chainsaw executable.
 - Running the script may request administrator privileges for certain operations.
-
----
-
-## Screenshots
-
-<img width="976" height="506" alt="image" src="https://github.com/user-attachments/assets/f04d3310-c9ac-48c7-8eb1-a996b80ee4c3" />
-
-<img width="661" height="321" alt="image" src="https://github.com/user-attachments/assets/81b5fc54-e76e-43b4-99c8-415cfea71f2b" />
-
-
 
 ---
 
